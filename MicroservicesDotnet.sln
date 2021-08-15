@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microservices.Product.API",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microservices.WebUI", "Microservices.WebUI\Microservices.WebUI.csproj", "{CF1828F7-9CBC-41CF-B020-A81AA53C989D}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microservices.Gateway", "Microservices.Gateway\Microservices.Gateway.csproj", "{00915BEC-A855-4AAC-B817-65C2A102BE0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CF1828F7-9CBC-41CF-B020-A81AA53C989D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF1828F7-9CBC-41CF-B020-A81AA53C989D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF1828F7-9CBC-41CF-B020-A81AA53C989D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00915BEC-A855-4AAC-B817-65C2A102BE0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00915BEC-A855-4AAC-B817-65C2A102BE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00915BEC-A855-4AAC-B817-65C2A102BE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00915BEC-A855-4AAC-B817-65C2A102BE0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
